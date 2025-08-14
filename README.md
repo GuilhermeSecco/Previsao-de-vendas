@@ -88,6 +88,8 @@ Fonte: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets
 
     SMOTE.png – Balanceamento da variável alvo após oversampling.
 
+    comparacao_modelos_svm.png - Visualização dos resultados obtidos
+
 # 🛠 Tecnologias Utilizadas
 
     Python 3
